@@ -1,2 +1,2 @@
-# Probability-assessment-of-vehicle-collision-type
+==== Probability-assessment-of-vehicle-collision-type
 The model consists of two parts: object detection and tracking with YOLOv4 and DeepSORT methods, and collision type classification based on Convolutional Neural Network (CNN) and Gated Recurrent Unit (GRU), where CNN is used to extract spatial features of the video frames, and GRU is used to train with dynamic features and spatial features to extract the temporal features.
