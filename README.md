@@ -14,3 +14,4 @@ The model consists of two parts: object detection and tracking with YOLOv4 and D
 *  GRU solves the gradient vanishing problem by replacing hidden nodes in traditional RNN with GRU nodes. Each GRU node consists of an update gate and reset gate.
 
 ## The Architecture of the Prediction Model
+![image](https://github.com/ChuangChuangYao/Probability-assessment-of-vehicle-collision-type/blob/9cd99fa237d0469b0b0bebb6ae72014ec106440e/architecture%20of%20the%20method.png)
